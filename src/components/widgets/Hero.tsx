@@ -2,7 +2,7 @@ import { component$ } from "@builder.io/qwik";
 import { Image } from "@unpic/qwik";
 
 // Update the image directory to your desired location
-const coverImage = "~/assets/images/logo.png?width=64&height=64&png";
+const coverImage = "https://telegra.ph/file/bd91ae455348664965787.jpg";
 
 export default component$(() => {
   return (

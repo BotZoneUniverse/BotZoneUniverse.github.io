@@ -2,7 +2,7 @@
 publishDate: 2023-02-02T00:00:00Z
 title: Simplify Video Sharing with These 5 Advanced Video Compressor Telegram Bots
 excerpt: Discover five advanced Telegram bots tailored to streamline the video compression process, ensuring effortless video sharing.
-image: ~images/5_video_compress_bots.png
+image: https://telegra.ph/file/b4d9a14022e5f823f8b00.jpg
 tags:
   - video
   - compression
