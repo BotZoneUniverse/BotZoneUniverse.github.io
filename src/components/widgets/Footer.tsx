@@ -12,7 +12,7 @@ export default component$(() => {
       title: "Support",
       items: [
         { title: "Docs", href: "#" },
-        { title: "Community Forum", href: "#" },
+        { title: "Community Forum", href: "https://t.me/BotZoneUniverse" },
         { title: "Professional Services", href: "#" },
         { title: "Skills", href: "#" },
         { title: "Status", href: "#" },
@@ -54,8 +54,7 @@ export default component$(() => {
               </Link>
             </div>
             <div class="text-sm text-gray-600 dark:text-gray-400">
-              Explore the world of Telegram bots with Bot Bliss. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi
-              risus tempus nulla.
+              Explore the world of Telegram bots with Bot Bliss.
             </div>
           </div>
           {links.map(({ title, items }, index) => (
@@ -97,9 +96,9 @@ export default component$(() => {
           <div class="text-sm text-gray-700 mr-4 dark:text-slate-400">
             <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
             Made by{" "}
-            <a class="text-secondary-800 underline dark:text-gray-200" href="https://onwidget.com/">
+            <a class="text-secondary-800 underline dark:text-gray-200" href="https://youtube.com/@BotZoneGalaxy?si=V_EzuBiK9HIUok4X">
               {" "}
-              onWidget
+              BotZone
             </a>{" "}
             · All rights reserved.
           </div>
