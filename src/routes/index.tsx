@@ -24,7 +24,7 @@ export default component$(() => {
       <Hero />
       <Features
         highlight="Features"
-        title="What you get with Qwind"
+        title="What you get with BotZone"
         subtitle="Discover amazing Telegram bots, join our vibrant community, and explore a world of productivity, entertainment, and education, all in one place."
         items={[
           {

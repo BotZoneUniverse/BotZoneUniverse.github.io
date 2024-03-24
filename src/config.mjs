@@ -6,7 +6,7 @@ export const SITE = {
   description:
     "Unlock the potential of Telegram bots with Bot Bliss. Discover productivity, entertainment, and educational bots tailored to your needs.",
 
-  origin: "https://qwind.pages.dev",
+  origin: "http://botzone.netlify.com/",
   basePathname: "/",
   trailingSlash: true,
 };

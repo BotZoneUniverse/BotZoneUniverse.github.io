@@ -13,6 +13,6 @@ export default component$(() => (
       alt="BotZone Logo"
       loading="lazy"
     />
-    Qwind
+    BotZone
   </span>
 ));
