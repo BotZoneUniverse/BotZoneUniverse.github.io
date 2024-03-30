@@ -1,9 +1,6 @@
 import { component$ } from "@builder.io/qwik";
 import { Link } from "@builder.io/qwik-city";
 
-import IconTwitter from "~/components/icons/IconTwitter"
-import IconInstagram from "~/components/icons/IconInstagram"
-import IconFacebook from "~/components/icons/IconFacebook"
 import IconGithub from "~/components/icons/IconGithub"
 
 export default component$(() => {
@@ -11,35 +8,24 @@ export default component$(() => {
     {
       title: "Support",
       items: [
-        { title: "Docs", href: "#" },
+        { title: "Youtube", href: "https://youtube.com/@BotZoneGalaxy?si=V_EzuBiK9HIUok4X" },
         { title: "Community Forum", href: "https://t.me/BotZoneUniverse" },
-        { title: "Professional Services", href: "#" },
-        { title: "Skills", href: "#" },
-        { title: "Status", href: "#" },
+        { title: "BotZone Fun Chat", href: "https://t.me/BotZoneFunchat" },
       ],
     },
     {
       title: "Company",
       items: [
-        { title: "About", href: "#" },
-        { title: "Blog", href: "#" },
-        { title: "Careers", href: "#" },
-        { title: "Press", href: "#" },
-        { title: "Inclusion", href: "#" },
-        { title: "Social Impact", href: "#" },
-        { title: "Shop", href: "#" },
+        { title: "Blog", href: "/blog" },
       ],
     },
   ];
 
   const social = [
-    { label: "Twitter", icon: IconTwitter, href: "#" },
-    { label: "Instagram", icon: IconInstagram, href: "#" },
-    { label: "Facebook", icon: IconFacebook, href: "#" },
     {
       label: "Github",
       icon: IconGithub,
-      href: "https://github.com/onwidget/qwind",
+      href: "https://github.com/Dev-Yoko",
     },
   ];
 
